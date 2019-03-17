@@ -22,8 +22,8 @@
   <!--
     Kernels
   -->
-  <!-- <project name="Exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" /> -->
-  <project name="Mohi1117/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" />
+  <project name="Exynos7870/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" />
+  <!-- <project name="Mohi1117/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" /> -->
 
 </manifest>
 
