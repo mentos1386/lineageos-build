@@ -8,6 +8,12 @@ My advanture in building lineage os for my Samsung J7 (2017) *[j7y17lte]*
  - [lineageos](https://github.com/lineageos)
 
 
+**Other repos**
+ - https://github.com/mentos1386/android_vendor_samsung
+ - https://github.com/mentos1386/android_device_samsung_exynos7870-common
+ - https://github.com/mentos1386/android_device_samsung_j7y17lte
+
+
 # Guide
 
 **Requirements**
